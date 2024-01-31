@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my GitHub page👋, I'm Abdulrahman Al Muaitah</h1>
-<h3 align="center">A self-taught developer and instructor in Ajman University</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahishamm&label=Profile%20views&color=0e75b6&style=flat" alt="ahishamm" /> </p>
+<h3 align="center">Machine Learning Engineer</h3>
 
 - 🌱 I’m currently interested in **AWS Cloud, ML, DL**
 
