@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my GitHub page👋, I'm Abdulrahman Al Muaitah</h1>
 <h3 align="center">ML Practitioner</h3>
+![image](https://www.codewars.com/users/AbdulrahmanHisham/badges/large)
 
 - 🌱 I’m currently interested in **AWS Cloud, ML, DL**
 
